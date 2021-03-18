@@ -14,9 +14,14 @@
       </ion-header>
 
       <div id="container">
-        back button below
+        <ion-button href="/home">Home</ion-button>
+        <ion-button href="/home2">Home2</ion-button>
+        <ion-button href="/home3">Home3</ion-button>
+        <ion-button href="/home4">Home4</ion-button>
+        <br/>
+        <p>back button : </p>
         <ion-back-button></ion-back-button>
-        back button above
+        <p> : back button</p>
         <br/>
         <strong>Ready to create an app?</strong>
         <p>Start with Ionic <a target="_blank" rel="noopener noreferrer" href="https://ionicframework.com/docs/components">UI Components</a></p>
