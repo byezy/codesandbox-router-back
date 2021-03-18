@@ -1,0 +1,7 @@
+{
+  "name": "router-back",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
