@@ -31,7 +31,7 @@
 </template>
 
 <script lang="ts">
-import { IonContent, IonHeader, IonPage, IonTitle, IonToolbar, IonBackButton } from '@ionic/vue';
+import { IonContent, IonHeader, IonPage, IonTitle, IonToolbar, IonBackButton, IonButton } from '@ionic/vue';
 import { defineComponent } from 'vue';
 
 export default defineComponent({
@@ -42,7 +42,8 @@ export default defineComponent({
     IonPage,
     IonTitle,
     IonToolbar,
-    IonBackButton
+    IonBackButton,
+    IonButton
   }
 });
 </script>
